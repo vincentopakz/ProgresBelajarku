@@ -14,4 +14,4 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 ### Reach me on
 - <a href="https://linkedin.com/in/vincentopakz/">LinkedIn</a>
-- <a href="https://instagram.com/vincentopakz/">LinkedIn</a>
+- <a href="https://instagram.com/vincentopakz/">Instagram</a>
