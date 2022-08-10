@@ -1,32 +1,13 @@
-# ProgresBelajarku
-Repository ini Berisi Pengalaman Belajarku di Dicoding
-
-**08 Agustus 2022**  
-
-Belajar kelas Memulai Pemrograman dengan Github. (Progres 21%)
-
-* Belajar tentang apa itu Github dan alasan menggunakannya.
-
-* Belajar tools yang dapat digunakan untuk menjalankan Github.
-
-**09 Agustus 2022**  
-
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
-
-  * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
-
-  * Belajar control flow dalam Java, seperti perulangan dan percabangan.
-
-  * Belajar tipe data koleksi, seperti list, set, dan map.
-
-**11 Agustus 2022**  
-
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
-
-  * Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
-
-  * Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting. 
-
-  * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
-
-  * Mengerjakan ujian akhir untuk menilai kemahiran diri.
+# Halo semua! 
+Perkenalkan nama saya **Vincent**.\
+Saya seorang **Staff Accounting** di [MTMH](https://www.rsmurniteguh.com/).\
+Saya bertanggung jawab pada kliam-an BPJS .\
+Saya masih duduk di bangku kuliah .\
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/vincentopakz/)ku ya.
+ 
+<p align="left">
+<a href="https://github.com/vincentopakz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
