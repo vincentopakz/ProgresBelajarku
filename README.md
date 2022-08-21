@@ -1,7 +1,7 @@
 # Halo semua! 
 Perkenalkan nama saya **Vincent**.\
 Saya seorang **Staff Accounting** di [MTMH](https://www.rsmurniteguh.com/).\
-Saya bertanggung jawab pada kliam-an BPJS .\
+Saya bertanggung jawab pada klaim-an BPJS .\
 Saya masih duduk di bangku kuliah .\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/vincentopakz/)ku ya.
  
