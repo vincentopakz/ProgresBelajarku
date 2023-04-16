@@ -1,6 +1,6 @@
 # Halo semua! 
 Perkenalkan nama saya **Vincent**.\
-Saya seorang **Staff Accounting** di [MTMH](https://www.rsmurniteguh.com/).\
+Saya seorang **Staff Accounting**.\
 Saya bertanggung jawab pada klaim-an BPJS .\
 
 <p align="left">
