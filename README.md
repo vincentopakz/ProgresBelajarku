@@ -1,8 +1,3 @@
-# Halo semua! 
-Perkenalkan nama saya **Vincent**.\
-Saya seorang **Staff Accounting**.\
-Saya bertanggung jawab pada klaim-an BPJS .\
-
 <p align="left">
 <a href="https://github.com/vincentopakz">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vincentopakz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
